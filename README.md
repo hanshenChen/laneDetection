@@ -1,4 +1,4 @@
 # laneDetection
-Fast lane detection based on multi-frame blending and windows searching
+Efficient Method of Lane Detection Based on Multi-Frame Blending and Windows Searching
 
 code are coming soon 
